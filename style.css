@@ -21,7 +21,7 @@
     margin: 15px 5px 5px 5px;
     justify-content: center;
     font-family: 'Bangers';
-    font-size: 50px;
+    font-size: 45px;
     text-shadow: 1px 1px 2px black;
     color: rgb(255, 94, 0);
 }
@@ -69,12 +69,12 @@
 #translate {
     width: 310px;
     font-family: 'bangers';
-    font-size: 25px;
+    font-size: 20px;
     margin: 5px;
     padding: 5px;
     border-radius: 5px;
     background-color: rgb(255, 255, 255);
-    color: rgb(195, 0, 255);
+    color: rgb(0, 217, 255);
     border-style: none;
     box-shadow: 2px 2px 3px black;
     text-shadow: 1px 1px 2px black;

@@ -7,13 +7,13 @@ let btnTranslate = document.getElementById('translate')
 btnTranslate.addEventListener('click', function() {
     let audio = document.getElementById('click')
     audio.play()
-    btnTranslate.innerHTML = 'Eu finalmente decidi...'
+    btnTranslate.innerHTML = 'Eu finalmente decidi que meu futuro está além da estrada de tijolos amarelos'
     btnTranslate.style.boxShadow = '1px 1px 1px black'
     setTimeout(function()
     {
         btnTranslate.innerHTML = 'Translate'
         btnTranslate.style.boxShadow = '2px 2px 3px black'
-    }, 1500)
+    }, 4000)
 
 })
 
